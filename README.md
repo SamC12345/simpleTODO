@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-I will create a walkthrough and include it shortly :)
+
+![Demo Gif](https://github.com/SamC12345/simpleTODO/raw/master/TODO%20App%20Demo.gif "Demo Gif")
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
